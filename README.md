@@ -18,4 +18,4 @@ Hypothesis Username: **Fhuynh2**
 
 4. AI Tool/Workflow
 
-I'm planning to utilize a wide range of models to assist me mostly in summarizing information that I found and optimizing my code's algorithms (my original idea). My options would range from GPT to Claude to Gemini.
+I'm planning to utilize a wide range of models to assist me mostly in summarizing information that I found and optimizing my code's algorithms (my original idea) from Claude to Gemini. I didn't use any AI assistance for this particular homework though.
