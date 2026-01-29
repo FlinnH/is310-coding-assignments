@@ -14,11 +14,12 @@ from Italian pizzerias to Vietnamese food stalls to Mexican cantinas.
 
 ## Instructions
 1. Start at the `restaurant_entrance` directory
-2. Navigate through different cuisines and kitchens
-3. Read about iconic dishes and follow the clues
-4. Avoid tourist traps and dead ends!
-5. Discover hidden secrets from traditional cooks
-6. READ EVERYTHING (All .txt file)!!
+2. Please read the `menu.txt` before ordering
+3. Navigate through different cuisines and kitchens
+4. Read about iconic dishes and follow the clues
+5. Avoid tourist traps and dead ends!
+6. Discover hidden secrets from traditional cooks
+7. **READ EVERYTHING (All .txt file)!!**
 
 ## Essential Commands
 - `ls` - see what's in the current location
@@ -37,4 +38,4 @@ from Italian pizzerias to Vietnamese food stalls to Mexican cantinas.
 ## Goal
 Find the legendary "La Comida Perfecta" and learn what makes it so special!
 
-Bon appétit! Buon appetito! 吃好! ¡Buen provecho! Chúc Ngon Miệng!🌍👨‍🍳
+Bon appétit! Buon appetito! 慢慢吃! ¡Buen provecho! Chúc Ngon Miệng!🌍👨‍🍳
