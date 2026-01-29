@@ -1,0 +1,10 @@
+🍕 The classic Margherita Pizza! 
+
+Simple ingredients:
+- San Marzano tomatoes
+- Fresh mozzarella
+- Basil
+- Olive oil
+
+But wait... every Italian nonna has a SECRET ingredient nobody talks about.
+Have you checked EVERYTHING in this kitchen? (Hint: ls -a)
