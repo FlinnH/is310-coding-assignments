@@ -1,21 +1,11 @@
-# Init IS310 Homework
+# IS310 Coding Assignments
 
-## Proof of Installation
+## About This Repository
+This repository contains my homework assignments for IS310 for Spring 2026 semester.
 
-1. Python AND Git
+## Assignments
+- [Init IS310 Homework](./init_is310/)
+- Command Line Maze (coming soon)
 
-![Python Installation](images/python&git-installation.png)
-
-2. VS Code
-
-![VS Code Installation](images/vscode-installation.png)
-
-3. Hypothesis
-
-Hypothesis Username: **Fhuynh2**
-
-![Hypothesis Installation](images/hypothesis-username.png)
-
-4. AI Tool/Workflow
-
-I'm planning to utilize a wide range of models to assist me mostly in summarizing information that I found and optimizing my code's algorithms (my original idea) from Claude to Gemini. I didn't use any AI assistance for this particular homework though.
+### Resources
+- [Course Website](https://cultureasdata-uiuc.github.io/is310-spring-2026/)
