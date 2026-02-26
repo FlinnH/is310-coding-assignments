@@ -1,4 +1,4 @@
-# 🌍 Tasty Dishes Around The World — My CLI Data Entry Assignment
+# 🌍 Tasty Dishes Around The World - My CLI Data Entry Assignment
 
 My command-line tool for collecting and saving people's favorite dishes from around the world. I Built with Python and my first time with the [Rich](https://rich.readthedocs.io/en/stable/) library for a clean, formatted terminal experience. First time working with this library so apologize if there's any potential issues.
 
