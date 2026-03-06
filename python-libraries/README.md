@@ -12,7 +12,7 @@ This script allows users to:
 - Review and confirm each entry before it is saved
 - Export all confirmed entries to a timestamped `.csv` file
 
-This script was built as part of a broader data curation project exploring food culture and immigrant cuisine transformations in the United States but **mostly due to my enormous love for food!**
+This script was initially built to center around my semester individual dataset project idea about immigrant cuisine transformations in the United States, but then the reason switched to: **my enormous love for food!**
 
 ---
 
