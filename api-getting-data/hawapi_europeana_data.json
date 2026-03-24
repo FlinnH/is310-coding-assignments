@@ -1,0 +1,1952 @@
+{
+  "success": true,
+  "requestNumber": 999,
+  "itemsCount": 12,
+  "totalResults": 26,
+  "nextCursor": "AoE/Qy8yMDU5MjEwL2RhdGFfc291bmRzX2h0dHBfX19hcmNoaXZlX29yZ19kb3dubG9hZF95b2xrMTk5N18xMF8xMV9tdHhfZmxhYzE2X3lvbGsxOTk3XzEwXzExczF0MDNfbXAz",
+  "items": [
+    {
+      "completeness": 8,
+      "country": [
+        "Netherlands"
+      ],
+      "dataProvider": [
+        "Naturalis Biodiversity Center"
+      ],
+      "dcDescription": [
+        "field recording",
+        "About 40 birds in a large skein flying over us.; 7:45am; animal seen:yes; playback used:no"
+      ],
+      "dcDescriptionLangAware": {
+        "def": [
+          "field recording",
+          "About 40 birds in a large skein flying over us.; 7:45am; animal seen:yes; playback used:no"
+        ]
+      },
+      "dcTitleLangAware": {
+        "la": [
+          "Branta canadensis"
+        ]
+      },
+      "edmConcept": [
+        "http://openup.nhm-wien.ac.at/commonNames/96538",
+        "http://openup.nhm-wien.ac.at/commonNames/96537",
+        "http://openup.nhm-wien.ac.at/commonNames/96539",
+        "http://openup.nhm-wien.ac.at/commonNames/96534",
+        "http://openup.nhm-wien.ac.at/commonNames/96533",
+        "http://openup.nhm-wien.ac.at/commonNames/96536",
+        "http://openup.nhm-wien.ac.at/commonNames/96535",
+        "http://openup.nhm-wien.ac.at/commonNames/96530",
+        "http://openup.nhm-wien.ac.at/commonNames/96532",
+        "http://openup.nhm-wien.ac.at/commonNames/96531",
+        "http://openup.nhm-wien.ac.at/commonNames/428686",
+        "http://openup.nhm-wien.ac.at/commonNames/428687",
+        "http://openup.nhm-wien.ac.at/commonNames/761349",
+        "http://openup.nhm-wien.ac.at/commonNames/594176",
+        "http://openup.nhm-wien.ac.at/commonNames/594175",
+        "http://openup.nhm-wien.ac.at/commonNames/594174",
+        "http://openup.nhm-wien.ac.at/commonNames/96527",
+        "http://openup.nhm-wien.ac.at/commonNames/96549",
+        "http://openup.nhm-wien.ac.at/commonNames/96526",
+        "http://openup.nhm-wien.ac.at/commonNames/96548",
+        "http://openup.nhm-wien.ac.at/commonNames/96529",
+        "http://openup.nhm-wien.ac.at/commonNames/96528",
+        "http://openup.nhm-wien.ac.at/commonNames/445873",
+        "http://openup.nhm-wien.ac.at/commonNames/96545",
+        "http://openup.nhm-wien.ac.at/commonNames/96544",
+        "http://openup.nhm-wien.ac.at/commonNames/96547",
+        "http://openup.nhm-wien.ac.at/commonNames/96546",
+        "http://openup.nhm-wien.ac.at/commonNames/96541",
+        "http://openup.nhm-wien.ac.at/commonNames/96540",
+        "http://openup.nhm-wien.ac.at/commonNames/96542"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "oca del Canada"
+        },
+        {
+          "def": "Kanadska gos"
+        },
+        {
+          "def": "Καναδική χήνα"
+        },
+        {
+          "def": "Kanadagans"
+        },
+        {
+          "def": "Kanada kazı"
+        },
+        {
+          "def": "Kanadinė berniklė"
+        },
+        {
+          "def": "Kanadagås"
+        },
+        {
+          "def": "Canadagås"
+        },
+        {
+          "def": "gwydd Canada"
+        },
+        {
+          "def": "grote Canadese gans"
+        },
+        {
+          "def": "kanádačuonjá"
+        },
+        {
+          "def": "bernikla kanadyjska"
+        },
+        {
+          "def": "barnacla Canadiense"
+        },
+        {
+          "def": "Canada goose"
+        },
+        {
+          "def": "канадская казарка"
+        },
+        {
+          "def": "Казарка канадська"
+        },
+        {
+          "def": "Канадська казарка"
+        },
+        {
+          "def": "Grote canadese gans"
+        },
+        {
+          "def": "Greater Canada Goose"
+        },
+        {
+          "def": "Canada Goose"
+        },
+        {
+          "def": "シジュウカラガン"
+        },
+        {
+          "def": "しじゅうからがん"
+        },
+        {
+          "def": "カナダガン"
+        },
+        {
+          "def": "kanadagås"
+        },
+        {
+          "def": "kanadagås"
+        },
+        {
+          "def": "Canada Goose"
+        },
+        {
+          "def": "kanadagås"
+        },
+        {
+          "def": "bernache du Canada"
+        },
+        {
+          "def": "Canadagås"
+        },
+        {
+          "def": "Ganso canadiense"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "nn": [
+          "kanadagås"
+        ],
+        "eu": [
+          "Canada Goose"
+        ],
+        "sv": [
+          "kanadagås"
+        ],
+        "nb": [
+          "kanadagås"
+        ],
+        "def": [
+          "Καναδική χήνα",
+          "Казарка канадська",
+          "oca del Canada",
+          "Kanadinė berniklė",
+          "Canada goose",
+          "Kanadagås",
+          "bernikla kanadyjska",
+          "gwydd Canada",
+          "канадская казарка",
+          "Kanadska gos",
+          "barnacla Canadiense",
+          "Canadagås",
+          "grote Canadese gans",
+          "Kanadagans",
+          "kanádačuonjá",
+          "Kanada kazı",
+          "Канадська казарка"
+        ],
+        "ja": [
+          "しじゅうからがん",
+          "シジュウカラガン",
+          "カナダガン"
+        ],
+        "en": [
+          "Greater Canada Goose",
+          "Canada Goose"
+        ],
+        "fr": [
+          "bernache du Canada"
+        ],
+        "da": [
+          "Canadagås"
+        ],
+        "nl": [
+          "Grote canadese gans"
+        ],
+        "es": [
+          "Ganso canadiense"
+        ]
+      },
+      "edmDatasetName": [
+        "997__Naturalis_Wildlife_Sounds_batch1"
+      ],
+      "edmIsShownAt": [
+        "https://data.biodiversitydata.nl/xeno-canto/observation/XC52324"
+      ],
+      "edmIsShownBy": [
+        "https://xeno-canto.org/sounds/uploaded/PWDLINYMKL/CanadaGoose.mp3"
+      ],
+      "edmPlaceLabel": [
+        {
+          "def": "Joe Wheeler State Park, Alabama"
+        }
+      ],
+      "edmPlaceLabelLangAware": {
+        "def": [
+          "Joe Wheeler State Park, Alabama"
+        ]
+      },
+      "edmPlaceLatitude": [
+        "34.81"
+      ],
+      "edmPlaceLongitude": [
+        "-87.321"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fxeno-canto.org%2Fsounds%2Fuploaded%2FPWDLINYMKL%2Fwave%2FXC52324-large.png&type=SOUND"
+      ],
+      "edmTimespanLabel": [
+        {
+          "def": "21. Jahrhundert"
+        },
+        {
+          "def": "2000-luku"
+        },
+        {
+          "def": "XXI век"
+        },
+        {
+          "def": "Século XXI"
+        },
+        {
+          "def": "21 век"
+        },
+        {
+          "def": "XXI amžius"
+        },
+        {
+          "def": "21. stoljeće"
+        },
+        {
+          "def": "21. gadsimts"
+        },
+        {
+          "def": "XXIe siècle"
+        },
+        {
+          "def": "21. század"
+        },
+        {
+          "def": "21. storočie"
+        },
+        {
+          "def": "21. stoletje"
+        },
+        {
+          "def": "21ú haois"
+        },
+        {
+          "def": "Segle XXI"
+        },
+        {
+          "def": "2000-talet"
+        },
+        {
+          "def": "21ος αιώνας"
+        },
+        {
+          "def": "21st century"
+        },
+        {
+          "def": "XXI secolo"
+        },
+        {
+          "def": "Siglo XXI"
+        },
+        {
+          "def": "21. sajand"
+        },
+        {
+          "def": "21. století"
+        },
+        {
+          "def": "XXI. mendea"
+        },
+        {
+          "def": "XXI wiek"
+        },
+        {
+          "def": "21. århundrede"
+        },
+        {
+          "def": "Secolul al XXI-lea"
+        },
+        {
+          "def": "21e eeuw"
+        },
+        {
+          "def": "http://www.wikidata.org/entity/Q6939"
+        },
+        {
+          "def": "http://data.culture.fr/thesaurus/resource/ark:/67717/T4-46"
+        },
+        {
+          "def": "http://id.loc.gov/authorities/names/sh85139024"
+        },
+        {
+          "def": "http://data.bnf.fr/ark:/12148/cb11930812p"
+        },
+        {
+          "def": "http://id.nlm.nih.gov/mesh/D049674"
+        },
+        {
+          "def": "https://www.freebase.com/m/08b43"
+        },
+        {
+          "def": "https://g.co/kg/m/08b43"
+        },
+        {
+          "def": "http://id.nlm.nih.gov/mesh/K01.400.504.984"
+        },
+        {
+          "def": "http://vocab.getty.edu/aat/300404515"
+        },
+        {
+          "def": "http://id.worldcat.org/fast/1159816"
+        },
+        {
+          "def": "http://babelnet.org/rdf/s01157225n"
+        },
+        {
+          "def": "http://dbpedia.org/resource/21st_century"
+        },
+        {
+          "def": "2009-01-04"
+        }
+      ],
+      "edmTimespanLabelLangAware": {
+        "de": [
+          "21. Jahrhundert"
+        ],
+        "fi": [
+          "2000-luku"
+        ],
+        "ru": [
+          "XXI век"
+        ],
+        "pt": [
+          "Século XXI"
+        ],
+        "bg": [
+          "21 век"
+        ],
+        "lt": [
+          "XXI amžius"
+        ],
+        "hr": [
+          "21. stoljeće"
+        ],
+        "lv": [
+          "21. gadsimts"
+        ],
+        "fr": [
+          "XXIe siècle"
+        ],
+        "hu": [
+          "21. század"
+        ],
+        "sk": [
+          "21. storočie"
+        ],
+        "sl": [
+          "21. stoletje"
+        ],
+        "ga": [
+          "21ú haois"
+        ],
+        "ca": [
+          "Segle XXI"
+        ],
+        "sv": [
+          "2000-talet"
+        ],
+        "el": [
+          "21ος αιώνας"
+        ],
+        "en": [
+          "21st century"
+        ],
+        "it": [
+          "XXI secolo"
+        ],
+        "es": [
+          "Siglo XXI"
+        ],
+        "et": [
+          "21. sajand"
+        ],
+        "cs": [
+          "21. století"
+        ],
+        "eu": [
+          "XXI. mendea"
+        ],
+        "zxx": [
+          "2009-01-04"
+        ],
+        "pl": [
+          "XXI wiek"
+        ],
+        "da": [
+          "21. århundrede"
+        ],
+        "ro": [
+          "Secolul al XXI-lea"
+        ],
+        "nl": [
+          "21e eeuw"
+        ]
+      },
+      "europeanaCollectionName": [
+        "997__Naturalis_Wildlife_Sounds_batch1"
+      ],
+      "europeanaCompleteness": 8,
+      "guid": "https://www.europeana.eu/item/997/WILDLIFEXSOUNDSXXXBIRDSXXC52324?utm_source=api&utm_medium=api&utm_campaign=ctinamhorose",
+      "id": "/997/WILDLIFEXSOUNDSXXXBIRDSXXC52324",
+      "index": 0,
+      "language": [
+        "en"
+      ],
+      "link": "https://api.europeana.eu/record/997/WILDLIFEXSOUNDSXXXBIRDSXXC52324.json?wskey=ctinamhorose",
+      "previewNoDistribute": false,
+      "provider": [
+        "OpenUp!"
+      ],
+      "rights": [
+        "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+      ],
+      "score": 11.432739,
+      "timestamp": 1752022904009,
+      "timestamp_created": "2023-12-11T08:57:47.160Z",
+      "timestamp_created_epoch": 1702285067160,
+      "timestamp_update": "2024-02-13T09:06:41.871Z",
+      "timestamp_update_epoch": 1707815201871,
+      "title": [
+        "Branta canadensis",
+        "Canada Goose"
+      ],
+      "type": "SOUND",
+      "ugc": [
+        false
+      ]
+    },
+    {
+      "completeness": 10,
+      "country": [
+        "Netherlands"
+      ],
+      "dataProvider": [
+        "Open Access Publishing in European Networks Foundation"
+      ],
+      "dcCreator": [
+        "Martin F. Price",
+        "Todd Pagano",
+        "Timothy O'Higgins",
+        "Joao Pedro Nunes",
+        "Charles B. Niwagaba",
+        "Wen-Cheng Liu",
+        "Hong-Ming Liu",
+        "Zongli Li",
+        "Jyun-Long Lee",
+        "Sergey Kravtsov",
+        "Jonathan E. Kenny",
+        "Jan Jacob Keizer",
+        "Mohammad Kamruzzaman",
+        "Wen-Cheng Huang",
+        "Edwyna Harris",
+        "Janel Hanrahan",
+        "Alistair Grinham",
+        "Eihab Fathelrahman",
+        "Bernd Diekkrüger",
+        "Stephen Davies",
+        "Amalia Davies",
+        "Robert I. Daly",
+        "Mike D. Burch",
+        "Robert Brooks",
+        "Aymar Y. Bossa",
+        "John Boland",
+        "Henning Bjornlund",
+        "Morgan Bida",
+        "Simon Beecham",
+        "Rupak Aryal",
+        "Ricardo Arias",
+        "Mohammed Saif Al-Kalbani",
+        "Mary Akurut",
+        "Mushtaque Ahmed",
+        "Euloge K. Agbossou",
+        "Asma Abahussain",
+        "James Pritchett",
+        "M. Luz Rodríguez-Blanco",
+        "Paul Roebber",
+        "Md Sumon Shahriar",
+        "Leszek Sobkowiak",
+        "M. Mercedes Taboada-Castro",
+        "M. Teresa Taboada-Castro",
+        "Leon van der Linden",
+        "Ann Wheeler",
+        "Patrick Willems",
+        "Jun Xia",
+        "Lingling Zhao",
+        "Alec Zuo"
+      ],
+      "dcCreatorLangAware": {
+        "def": [
+          "Martin F. Price",
+          "Todd Pagano",
+          "Timothy O'Higgins",
+          "Joao Pedro Nunes",
+          "Charles B. Niwagaba",
+          "Wen-Cheng Liu",
+          "Hong-Ming Liu",
+          "Zongli Li",
+          "Jyun-Long Lee",
+          "Sergey Kravtsov",
+          "Jonathan E. Kenny",
+          "Jan Jacob Keizer",
+          "Mohammad Kamruzzaman",
+          "Wen-Cheng Huang",
+          "Edwyna Harris",
+          "Janel Hanrahan",
+          "Alistair Grinham",
+          "Eihab Fathelrahman",
+          "Bernd Diekkrüger",
+          "Stephen Davies",
+          "Amalia Davies",
+          "Robert I. Daly",
+          "Mike D. Burch",
+          "Robert Brooks",
+          "Aymar Y. Bossa",
+          "John Boland",
+          "Henning Bjornlund",
+          "Morgan Bida",
+          "Simon Beecham",
+          "Rupak Aryal",
+          "Ricardo Arias",
+          "Mohammed Saif Al-Kalbani",
+          "Mary Akurut",
+          "Mushtaque Ahmed",
+          "Euloge K. Agbossou",
+          "Asma Abahussain",
+          "James Pritchett",
+          "M. Luz Rodríguez-Blanco",
+          "Paul Roebber",
+          "Md Sumon Shahriar",
+          "Leszek Sobkowiak",
+          "M. Mercedes Taboada-Castro",
+          "M. Teresa Taboada-Castro",
+          "Leon van der Linden",
+          "Ann Wheeler",
+          "Patrick Willems",
+          "Jun Xia",
+          "Lingling Zhao",
+          "Alec Zuo"
+        ]
+      },
+      "dcDescription": [
+        "Climate change will bring about significant changes to the capacity of, and the demand on, water resources. The resulting changes include increasing climate variability that is expected to affect hydrologic conditions. The effects of climate variability on various meteorological variables have been extensively observed in many regions around the world. Atmospheric circulation, topography, land use and other regional features modify global changes to produce unique patterns of change at the regional scale. As the future changes to these water resources cannot be measured in the present, hydrological models are critical in the planning required to adapt our water resource management strategies to future climate conditions. Such models include catchment runoff models, reservoir management models, flood prediction models, groundwater recharge and flow models, and crop water balance models. In water-scarce regions such as Australia, urban water systems are particularly vulnerable to rapid population growth and climate change. In the presence of climate change induced uncertainty, urban water systems need to be more resilient and multi-sourced. Decreasing volumetric rainfall trends have an effect on reservoir yield and operation practices. Severe intensity rainfall events can cause failure of drainage system capacity and subsequent urban flood inundation problems. Policy makers, end users and leading researchers need to work together to develop a consistent approach to interpreting the effects of climate variability and change on water resources.This Special Edition includes papers by international experts who have investigated climate change impacts on a variety of systems including irrigation and water markets, land use changes and vegetation growth, lake water levels and quality and sea level rises. These investigations have been conducted in many regions of the world including the USA, China, East Africa, Australia, Taiwan and the Sultanate of Oman."
+      ],
+      "dcDescriptionLangAware": {
+        "def": [
+          "Climate change will bring about significant changes to the capacity of, and the demand on, water resources. The resulting changes include increasing climate variability that is expected to affect hydrologic conditions. The effects of climate variability on various meteorological variables have been extensively observed in many regions around the world. Atmospheric circulation, topography, land use and other regional features modify global changes to produce unique patterns of change at the regional scale. As the future changes to these water resources cannot be measured in the present, hydrological models are critical in the planning required to adapt our water resource management strategies to future climate conditions. Such models include catchment runoff models, reservoir management models, flood prediction models, groundwater recharge and flow models, and crop water balance models. In water-scarce regions such as Australia, urban water systems are particularly vulnerable to rapid population growth and climate change. In the presence of climate change induced uncertainty, urban water systems need to be more resilient and multi-sourced. Decreasing volumetric rainfall trends have an effect on reservoir yield and operation practices. Severe intensity rainfall events can cause failure of drainage system capacity and subsequent urban flood inundation problems. Policy makers, end users and leading researchers need to work together to develop a consistent approach to interpreting the effects of climate variability and change on water resources.This Special Edition includes papers by international experts who have investigated climate change impacts on a variety of systems including irrigation and water markets, land use changes and vegetation growth, lake water levels and quality and sea level rises. These investigations have been conducted in many regions of the world including the USA, China, East Africa, Australia, Taiwan and the Sultanate of Oman."
+        ]
+      },
+      "dcLanguage": [
+        "English"
+      ],
+      "dcLanguageLangAware": {
+        "def": [
+          "English"
+        ]
+      },
+      "dcTitleLangAware": {
+        "def": [
+          "Water Resources in a Variable and Changing Climate"
+        ]
+      },
+      "edmDatasetName": [
+        "9200235_DOAB_OAPEN_Foundation_eCloud"
+      ],
+      "edmIsShownAt": [
+        "http://www.doabooks.org/doab?func=search&query=rid:17590"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fwww.doabooks.org%2Fdoab%2F%3Ffunc%3Dcover%26rid%3D17590&type=TEXT"
+      ],
+      "edmTimespanLabel": [
+        {
+          "def": "Second millenium AD"
+        },
+        {
+          "def": "Second millenium AD, years 1001-2000"
+        },
+        {
+          "def": "Time"
+        },
+        {
+          "def": "21-st"
+        },
+        {
+          "def": "21st"
+        },
+        {
+          "def": "21st century"
+        },
+        {
+          "def": "Chronological period"
+        },
+        {
+          "def": "2e millénaire après J.-C."
+        },
+        {
+          "def": "21er siècle"
+        },
+        {
+          "def": "2015"
+        },
+        {
+          "def": "21й век"
+        },
+        {
+          "def": "21.."
+        },
+        {
+          "def": "21??"
+        },
+        {
+          "def": "21e"
+        },
+        {
+          "def": "21ste eeuw"
+        }
+      ],
+      "edmTimespanLabelLangAware": {
+        "ru": [
+          "21й век"
+        ],
+        "def": [
+          "21..",
+          "21??",
+          "21e"
+        ],
+        "en": [
+          "Second millenium AD",
+          "Second millenium AD, years 1001-2000",
+          "Time",
+          "21-st",
+          "21st",
+          "21st century",
+          "Chronological period"
+        ],
+        "zxx": [
+          "2015"
+        ],
+        "fr": [
+          "2e millénaire après J.-C.",
+          "21er siècle"
+        ],
+        "nl": [
+          "21ste eeuw"
+        ]
+      },
+      "europeanaCollectionName": [
+        "9200235_DOAB_OAPEN_Foundation_eCloud"
+      ],
+      "europeanaCompleteness": 10,
+      "guid": "https://www.europeana.eu/item/9200235/pdfview_book_157?utm_source=api&utm_medium=api&utm_campaign=ctinamhorose",
+      "id": "/9200235/pdfview_book_157",
+      "index": 0,
+      "language": [
+        "en"
+      ],
+      "link": "https://api.europeana.eu/record/9200235/pdfview_book_157.json?wskey=ctinamhorose",
+      "previewNoDistribute": false,
+      "provider": [
+        "Open Access Publishing in European Networks Foundation"
+      ],
+      "rights": [
+        "http://creativecommons.org/licenses/by/4.0/"
+      ],
+      "score": 12.606043,
+      "timestamp": 1752070618017,
+      "timestamp_created": "2016-08-17T15:47:31.878Z",
+      "timestamp_created_epoch": 1471448851878,
+      "timestamp_update": "2016-09-19T12:17:22.410Z",
+      "timestamp_update_epoch": 1474287442410,
+      "title": [
+        "Water Resources in a Variable and Changing Climate"
+      ],
+      "type": "TEXT",
+      "ugc": [
+        false
+      ],
+      "year": [
+        "2015"
+      ]
+    },
+    {
+      "completeness": 0,
+      "country": [
+        "Netherlands"
+      ],
+      "dataProvider": [
+        "Internet Archive"
+      ],
+      "dcCreator": [
+        "Yolk"
+      ],
+      "dcCreatorLangAware": {
+        "en": [
+          "Yolk"
+        ]
+      },
+      "dcDescription": [
+        "Venue: Wetlands Preserve",
+        "Set I  01. intro 02. Into the Unknowns 03. Nobody Moves 04. Next Step for the Monkey 05. Reconstructed Wilma 06. Mr. Kite 07. Green 08. jam* 09. So This is Heaven 10. Passing By 11. Everyday# 12. Missing Something  Set II  01. intro 02. Infinity@ 03. Oblivion 04. Anyone Else > 05. Cataract 06. Seven 07. Pavement > 08. King Sewercrab 09. MTV Get Off the Air% 10. Halloween 11. Dregs  * = w/Dean Bowman # = w/Mike Dickenson @ = w/Mash intro % = w/Brian Lederman, George Wheeler and Mike Dickenson"
+      ],
+      "dcDescriptionLangAware": {
+        "en": [
+          "Venue: Wetlands Preserve",
+          "Set I  01. intro 02. Into the Unknowns 03. Nobody Moves 04. Next Step for the Monkey 05. Reconstructed Wilma 06. Mr. Kite 07. Green 08. jam* 09. So This is Heaven 10. Passing By 11. Everyday# 12. Missing Something  Set II  01. intro 02. Infinity@ 03. Oblivion 04. Anyone Else > 05. Cataract 06. Seven 07. Pavement > 08. King Sewercrab 09. MTV Get Off the Air% 10. Halloween 11. Dregs  * = w/Dean Bowman # = w/Mike Dickenson @ = w/Mash intro % = w/Brian Lederman, George Wheeler and Mike Dickenson"
+        ]
+      },
+      "dcTitleLangAware": {
+        "en": [
+          "Yolk Live at Wetlands Preserve on 1997-10-11"
+        ]
+      },
+      "edmConcept": [
+        "http://data.europeana.eu/concept/soundgenres/Music/Popular_music"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Populären musik"
+        },
+        {
+          "def": "Popular music"
+        },
+        {
+          "def": "Musica popolare"
+        },
+        {
+          "def": "Musique populaire"
+        },
+        {
+          "def": "Muzyka popularna"
+        },
+        {
+          "def": "Música popular"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Populären musik"
+        ],
+        "en": [
+          "Popular music"
+        ],
+        "it": [
+          "Musica popolare"
+        ],
+        "fr": [
+          "Musique populaire"
+        ],
+        "pl": [
+          "Muzyka popularna"
+        ],
+        "es": [
+          "Música popular"
+        ]
+      },
+      "edmDatasetName": [
+        "2059210_Ag_EU_eSOUNDS_1014_NISV"
+      ],
+      "edmIsShownAt": [
+        "https://archive.org/details/yolk1997-10-11.mtx.flac16"
+      ],
+      "edmIsShownBy": [
+        "http://archive.org/download/yolk1997-10-11.mtx.flac16/yolk1997-10-11s1t01.mp3"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Farchive.org%2Fdownload%2Fyolk1997-10-11.mtx.flac16%2Fyolk1997-10-11s1t01.mp3&type=SOUND"
+      ],
+      "edmTimespanLabel": [
+        {
+          "def": "1997-10-11"
+        },
+        {
+          "def": "1997"
+        }
+      ],
+      "edmTimespanLabelLangAware": {
+        "zxx": [
+          "1997-10-11",
+          "1997"
+        ]
+      },
+      "europeanaCollectionName": [
+        "2059210_Ag_EU_eSOUNDS_1014_NISV"
+      ],
+      "europeanaCompleteness": 0,
+      "guid": "https://www.europeana.eu/item/2059210/data_sounds_yolk1997_10_11_mtx_flac16?utm_source=api&utm_medium=api&utm_campaign=ctinamhorose",
+      "id": "/2059210/data_sounds_yolk1997_10_11_mtx_flac16",
+      "index": 0,
+      "language": [
+        "mul"
+      ],
+      "link": "https://api.europeana.eu/record/2059210/data_sounds_yolk1997_10_11_mtx_flac16.json?wskey=ctinamhorose",
+      "previewNoDistribute": false,
+      "provider": [
+        "Europeana Sounds"
+      ],
+      "rights": [
+        "http://rightsstatements.org/vocab/InC/1.0/"
+      ],
+      "score": 23.818802,
+      "timestamp": 1752011040400,
+      "timestamp_created": "2016-06-08T09:20:27.435Z",
+      "timestamp_created_epoch": 1465377627435,
+      "timestamp_update": "2021-09-02T10:34:42.584Z",
+      "timestamp_update_epoch": 1630578882584,
+      "title": [
+        "Yolk Live at Wetlands Preserve on 1997-10-11",
+        "1997/10/11 I New York, NY",
+        "1997/10/11 II New York, NY"
+      ],
+      "type": "SOUND",
+      "ugc": [
+        true
+      ],
+      "year": [
+        "1997"
+      ]
+    },
+    {
+      "completeness": 0,
+      "country": [
+        "Netherlands"
+      ],
+      "dataProvider": [
+        "Internet Archive"
+      ],
+      "dcDescription": [
+        "Set I  01. intro 02. Into the Unknowns 03. Nobody Moves 04. Next Step for the Monkey 05. Reconstructed Wilma 06. Mr. Kite 07. Green 08. jam* 09. So This is Heaven 10. Passing By 11. Everyday# 12. Missing Something  Set II  01. intro 02. Infinity@ 03. Oblivion 04. Anyone Else > 05. Cataract 06. Seven 07. Pavement > 08. King Sewercrab 09. MTV Get Off the Air% 10. Halloween 11. Dregs  * = w/Dean Bowman # = w/Mike Dickenson @ = w/Mash intro % = w/Brian Lederman, George Wheeler and Mike Dickenson"
+      ],
+      "dcDescriptionLangAware": {
+        "en": [
+          "Set I  01. intro 02. Into the Unknowns 03. Nobody Moves 04. Next Step for the Monkey 05. Reconstructed Wilma 06. Mr. Kite 07. Green 08. jam* 09. So This is Heaven 10. Passing By 11. Everyday# 12. Missing Something  Set II  01. intro 02. Infinity@ 03. Oblivion 04. Anyone Else > 05. Cataract 06. Seven 07. Pavement > 08. King Sewercrab 09. MTV Get Off the Air% 10. Halloween 11. Dregs  * = w/Dean Bowman # = w/Mike Dickenson @ = w/Mash intro % = w/Brian Lederman, George Wheeler and Mike Dickenson"
+        ]
+      },
+      "dcTitleLangAware": {
+        "en": [
+          "Dregs"
+        ]
+      },
+      "edmConcept": [
+        "http://data.europeana.eu/concept/soundgenres/Music/Popular_music"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Populären musik"
+        },
+        {
+          "def": "Popular music"
+        },
+        {
+          "def": "Musica popolare"
+        },
+        {
+          "def": "Musique populaire"
+        },
+        {
+          "def": "Muzyka popularna"
+        },
+        {
+          "def": "Música popular"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Populären musik"
+        ],
+        "en": [
+          "Popular music"
+        ],
+        "it": [
+          "Musica popolare"
+        ],
+        "fr": [
+          "Musique populaire"
+        ],
+        "pl": [
+          "Muzyka popularna"
+        ],
+        "es": [
+          "Música popular"
+        ]
+      },
+      "edmDatasetName": [
+        "2059210_Ag_EU_eSOUNDS_1014_NISV"
+      ],
+      "edmIsShownAt": [
+        "https://archive.org/details/yolk1997-10-11.mtx.flac16"
+      ],
+      "edmIsShownBy": [
+        "http://archive.org/download/yolk1997-10-11.mtx.flac16/yolk1997-10-11s2t11.mp3"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Farchive.org%2Fdownload%2Fyolk1997-10-11.mtx.flac16%2Fyolk1997-10-11s2t11.mp3&type=SOUND"
+      ],
+      "edmTimespanLabel": [
+        {
+          "def": "2010-12-13"
+        }
+      ],
+      "edmTimespanLabelLangAware": {
+        "zxx": [
+          "2010-12-13"
+        ]
+      },
+      "europeanaCollectionName": [
+        "2059210_Ag_EU_eSOUNDS_1014_NISV"
+      ],
+      "europeanaCompleteness": 0,
+      "guid": "https://www.europeana.eu/item/2059210/data_sounds_http___archive_org_download_yolk1997_10_11_mtx_flac16_yolk1997_10_11s2t11_mp3?utm_source=api&utm_medium=api&utm_campaign=ctinamhorose",
+      "id": "/2059210/data_sounds_http___archive_org_download_yolk1997_10_11_mtx_flac16_yolk1997_10_11s2t11_mp3",
+      "index": 0,
+      "language": [
+        "mul"
+      ],
+      "link": "https://api.europeana.eu/record/2059210/data_sounds_http___archive_org_download_yolk1997_10_11_mtx_flac16_yolk1997_10_11s2t11_mp3.json?wskey=ctinamhorose",
+      "previewNoDistribute": false,
+      "provider": [
+        "Europeana Sounds"
+      ],
+      "rights": [
+        "http://rightsstatements.org/vocab/InC/1.0/"
+      ],
+      "score": 23.903767,
+      "timestamp": 1752010738183,
+      "timestamp_created": "2020-07-30T06:26:07.473Z",
+      "timestamp_created_epoch": 1596090367473,
+      "timestamp_update": "2021-09-02T10:34:42.584Z",
+      "timestamp_update_epoch": 1630578882584,
+      "title": [
+        "Dregs",
+        "Track from Yolk Live at Wetlands Preserve on 1997-10-11"
+      ],
+      "type": "SOUND",
+      "ugc": [
+        false
+      ]
+    },
+    {
+      "completeness": 0,
+      "country": [
+        "Netherlands"
+      ],
+      "dataProvider": [
+        "Internet Archive"
+      ],
+      "dcDescription": [
+        "Set I  01. intro 02. Into the Unknowns 03. Nobody Moves 04. Next Step for the Monkey 05. Reconstructed Wilma 06. Mr. Kite 07. Green 08. jam* 09. So This is Heaven 10. Passing By 11. Everyday# 12. Missing Something  Set II  01. intro 02. Infinity@ 03. Oblivion 04. Anyone Else > 05. Cataract 06. Seven 07. Pavement > 08. King Sewercrab 09. MTV Get Off the Air% 10. Halloween 11. Dregs  * = w/Dean Bowman # = w/Mike Dickenson @ = w/Mash intro % = w/Brian Lederman, George Wheeler and Mike Dickenson"
+      ],
+      "dcDescriptionLangAware": {
+        "en": [
+          "Set I  01. intro 02. Into the Unknowns 03. Nobody Moves 04. Next Step for the Monkey 05. Reconstructed Wilma 06. Mr. Kite 07. Green 08. jam* 09. So This is Heaven 10. Passing By 11. Everyday# 12. Missing Something  Set II  01. intro 02. Infinity@ 03. Oblivion 04. Anyone Else > 05. Cataract 06. Seven 07. Pavement > 08. King Sewercrab 09. MTV Get Off the Air% 10. Halloween 11. Dregs  * = w/Dean Bowman # = w/Mike Dickenson @ = w/Mash intro % = w/Brian Lederman, George Wheeler and Mike Dickenson"
+        ]
+      },
+      "dcTitleLangAware": {
+        "en": [
+          "Halloween"
+        ]
+      },
+      "edmConcept": [
+        "http://data.europeana.eu/concept/soundgenres/Music/Popular_music"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Populären musik"
+        },
+        {
+          "def": "Popular music"
+        },
+        {
+          "def": "Musica popolare"
+        },
+        {
+          "def": "Musique populaire"
+        },
+        {
+          "def": "Muzyka popularna"
+        },
+        {
+          "def": "Música popular"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Populären musik"
+        ],
+        "en": [
+          "Popular music"
+        ],
+        "it": [
+          "Musica popolare"
+        ],
+        "fr": [
+          "Musique populaire"
+        ],
+        "pl": [
+          "Muzyka popularna"
+        ],
+        "es": [
+          "Música popular"
+        ]
+      },
+      "edmDatasetName": [
+        "2059210_Ag_EU_eSOUNDS_1014_NISV"
+      ],
+      "edmIsShownAt": [
+        "https://archive.org/details/yolk1997-10-11.mtx.flac16"
+      ],
+      "edmIsShownBy": [
+        "http://archive.org/download/yolk1997-10-11.mtx.flac16/yolk1997-10-11s2t10.mp3"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Farchive.org%2Fdownload%2Fyolk1997-10-11.mtx.flac16%2Fyolk1997-10-11s2t10.mp3&type=SOUND"
+      ],
+      "edmTimespanLabel": [
+        {
+          "def": "2010-12-13"
+        }
+      ],
+      "edmTimespanLabelLangAware": {
+        "zxx": [
+          "2010-12-13"
+        ]
+      },
+      "europeanaCollectionName": [
+        "2059210_Ag_EU_eSOUNDS_1014_NISV"
+      ],
+      "europeanaCompleteness": 0,
+      "guid": "https://www.europeana.eu/item/2059210/data_sounds_http___archive_org_download_yolk1997_10_11_mtx_flac16_yolk1997_10_11s2t10_mp3?utm_source=api&utm_medium=api&utm_campaign=ctinamhorose",
+      "id": "/2059210/data_sounds_http___archive_org_download_yolk1997_10_11_mtx_flac16_yolk1997_10_11s2t10_mp3",
+      "index": 0,
+      "language": [
+        "mul"
+      ],
+      "link": "https://api.europeana.eu/record/2059210/data_sounds_http___archive_org_download_yolk1997_10_11_mtx_flac16_yolk1997_10_11s2t10_mp3.json?wskey=ctinamhorose",
+      "previewNoDistribute": false,
+      "provider": [
+        "Europeana Sounds"
+      ],
+      "rights": [
+        "http://rightsstatements.org/vocab/InC/1.0/"
+      ],
+      "score": 23.899956,
+      "timestamp": 1752010738123,
+      "timestamp_created": "2020-07-30T06:26:07.473Z",
+      "timestamp_created_epoch": 1596090367473,
+      "timestamp_update": "2021-09-02T10:34:42.584Z",
+      "timestamp_update_epoch": 1630578882584,
+      "title": [
+        "Halloween",
+        "Track from Yolk Live at Wetlands Preserve on 1997-10-11"
+      ],
+      "type": "SOUND",
+      "ugc": [
+        false
+      ]
+    },
+    {
+      "completeness": 0,
+      "country": [
+        "Netherlands"
+      ],
+      "dataProvider": [
+        "Internet Archive"
+      ],
+      "dcDescription": [
+        "Set I  01. intro 02. Into the Unknowns 03. Nobody Moves 04. Next Step for the Monkey 05. Reconstructed Wilma 06. Mr. Kite 07. Green 08. jam* 09. So This is Heaven 10. Passing By 11. Everyday# 12. Missing Something  Set II  01. intro 02. Infinity@ 03. Oblivion 04. Anyone Else > 05. Cataract 06. Seven 07. Pavement > 08. King Sewercrab 09. MTV Get Off the Air% 10. Halloween 11. Dregs  * = w/Dean Bowman # = w/Mike Dickenson @ = w/Mash intro % = w/Brian Lederman, George Wheeler and Mike Dickenson"
+      ],
+      "dcDescriptionLangAware": {
+        "en": [
+          "Set I  01. intro 02. Into the Unknowns 03. Nobody Moves 04. Next Step for the Monkey 05. Reconstructed Wilma 06. Mr. Kite 07. Green 08. jam* 09. So This is Heaven 10. Passing By 11. Everyday# 12. Missing Something  Set II  01. intro 02. Infinity@ 03. Oblivion 04. Anyone Else > 05. Cataract 06. Seven 07. Pavement > 08. King Sewercrab 09. MTV Get Off the Air% 10. Halloween 11. Dregs  * = w/Dean Bowman # = w/Mike Dickenson @ = w/Mash intro % = w/Brian Lederman, George Wheeler and Mike Dickenson"
+        ]
+      },
+      "dcTitleLangAware": {
+        "en": [
+          "MTV Get Off the Air%"
+        ]
+      },
+      "edmConcept": [
+        "http://data.europeana.eu/concept/soundgenres/Music/Popular_music"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Populären musik"
+        },
+        {
+          "def": "Popular music"
+        },
+        {
+          "def": "Musica popolare"
+        },
+        {
+          "def": "Musique populaire"
+        },
+        {
+          "def": "Muzyka popularna"
+        },
+        {
+          "def": "Música popular"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Populären musik"
+        ],
+        "en": [
+          "Popular music"
+        ],
+        "it": [
+          "Musica popolare"
+        ],
+        "fr": [
+          "Musique populaire"
+        ],
+        "pl": [
+          "Muzyka popularna"
+        ],
+        "es": [
+          "Música popular"
+        ]
+      },
+      "edmDatasetName": [
+        "2059210_Ag_EU_eSOUNDS_1014_NISV"
+      ],
+      "edmIsShownAt": [
+        "https://archive.org/details/yolk1997-10-11.mtx.flac16"
+      ],
+      "edmIsShownBy": [
+        "http://archive.org/download/yolk1997-10-11.mtx.flac16/yolk1997-10-11s2t09.mp3"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Farchive.org%2Fdownload%2Fyolk1997-10-11.mtx.flac16%2Fyolk1997-10-11s2t09.mp3&type=SOUND"
+      ],
+      "edmTimespanLabel": [
+        {
+          "def": "2010-12-13"
+        }
+      ],
+      "edmTimespanLabelLangAware": {
+        "zxx": [
+          "2010-12-13"
+        ]
+      },
+      "europeanaCollectionName": [
+        "2059210_Ag_EU_eSOUNDS_1014_NISV"
+      ],
+      "europeanaCompleteness": 0,
+      "guid": "https://www.europeana.eu/item/2059210/data_sounds_http___archive_org_download_yolk1997_10_11_mtx_flac16_yolk1997_10_11s2t09_mp3?utm_source=api&utm_medium=api&utm_campaign=ctinamhorose",
+      "id": "/2059210/data_sounds_http___archive_org_download_yolk1997_10_11_mtx_flac16_yolk1997_10_11s2t09_mp3",
+      "index": 0,
+      "language": [
+        "mul"
+      ],
+      "link": "https://api.europeana.eu/record/2059210/data_sounds_http___archive_org_download_yolk1997_10_11_mtx_flac16_yolk1997_10_11s2t09_mp3.json?wskey=ctinamhorose",
+      "previewNoDistribute": false,
+      "provider": [
+        "Europeana Sounds"
+      ],
+      "rights": [
+        "http://rightsstatements.org/vocab/InC/1.0/"
+      ],
+      "score": 23.899956,
+      "timestamp": 1752010738067,
+      "timestamp_created": "2020-07-30T06:26:07.473Z",
+      "timestamp_created_epoch": 1596090367473,
+      "timestamp_update": "2021-09-02T10:34:42.584Z",
+      "timestamp_update_epoch": 1630578882584,
+      "title": [
+        "MTV Get Off the Air%",
+        "Track from Yolk Live at Wetlands Preserve on 1997-10-11"
+      ],
+      "type": "SOUND",
+      "ugc": [
+        false
+      ]
+    },
+    {
+      "completeness": 0,
+      "country": [
+        "Netherlands"
+      ],
+      "dataProvider": [
+        "Internet Archive"
+      ],
+      "dcDescription": [
+        "Set I  01. intro 02. Into the Unknowns 03. Nobody Moves 04. Next Step for the Monkey 05. Reconstructed Wilma 06. Mr. Kite 07. Green 08. jam* 09. So This is Heaven 10. Passing By 11. Everyday# 12. Missing Something  Set II  01. intro 02. Infinity@ 03. Oblivion 04. Anyone Else > 05. Cataract 06. Seven 07. Pavement > 08. King Sewercrab 09. MTV Get Off the Air% 10. Halloween 11. Dregs  * = w/Dean Bowman # = w/Mike Dickenson @ = w/Mash intro % = w/Brian Lederman, George Wheeler and Mike Dickenson"
+      ],
+      "dcDescriptionLangAware": {
+        "en": [
+          "Set I  01. intro 02. Into the Unknowns 03. Nobody Moves 04. Next Step for the Monkey 05. Reconstructed Wilma 06. Mr. Kite 07. Green 08. jam* 09. So This is Heaven 10. Passing By 11. Everyday# 12. Missing Something  Set II  01. intro 02. Infinity@ 03. Oblivion 04. Anyone Else > 05. Cataract 06. Seven 07. Pavement > 08. King Sewercrab 09. MTV Get Off the Air% 10. Halloween 11. Dregs  * = w/Dean Bowman # = w/Mike Dickenson @ = w/Mash intro % = w/Brian Lederman, George Wheeler and Mike Dickenson"
+        ]
+      },
+      "dcTitleLangAware": {
+        "en": [
+          "King Sewercrab"
+        ]
+      },
+      "edmConcept": [
+        "http://data.europeana.eu/concept/soundgenres/Music/Popular_music"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Populären musik"
+        },
+        {
+          "def": "Popular music"
+        },
+        {
+          "def": "Musica popolare"
+        },
+        {
+          "def": "Musique populaire"
+        },
+        {
+          "def": "Muzyka popularna"
+        },
+        {
+          "def": "Música popular"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Populären musik"
+        ],
+        "en": [
+          "Popular music"
+        ],
+        "it": [
+          "Musica popolare"
+        ],
+        "fr": [
+          "Musique populaire"
+        ],
+        "pl": [
+          "Muzyka popularna"
+        ],
+        "es": [
+          "Música popular"
+        ]
+      },
+      "edmDatasetName": [
+        "2059210_Ag_EU_eSOUNDS_1014_NISV"
+      ],
+      "edmIsShownAt": [
+        "https://archive.org/details/yolk1997-10-11.mtx.flac16"
+      ],
+      "edmIsShownBy": [
+        "http://archive.org/download/yolk1997-10-11.mtx.flac16/yolk1997-10-11s2t08.mp3"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Farchive.org%2Fdownload%2Fyolk1997-10-11.mtx.flac16%2Fyolk1997-10-11s2t08.mp3&type=SOUND"
+      ],
+      "edmTimespanLabel": [
+        {
+          "def": "2010-12-13"
+        }
+      ],
+      "edmTimespanLabelLangAware": {
+        "zxx": [
+          "2010-12-13"
+        ]
+      },
+      "europeanaCollectionName": [
+        "2059210_Ag_EU_eSOUNDS_1014_NISV"
+      ],
+      "europeanaCompleteness": 0,
+      "guid": "https://www.europeana.eu/item/2059210/data_sounds_http___archive_org_download_yolk1997_10_11_mtx_flac16_yolk1997_10_11s2t08_mp3?utm_source=api&utm_medium=api&utm_campaign=ctinamhorose",
+      "id": "/2059210/data_sounds_http___archive_org_download_yolk1997_10_11_mtx_flac16_yolk1997_10_11s2t08_mp3",
+      "index": 0,
+      "language": [
+        "mul"
+      ],
+      "link": "https://api.europeana.eu/record/2059210/data_sounds_http___archive_org_download_yolk1997_10_11_mtx_flac16_yolk1997_10_11s2t08_mp3.json?wskey=ctinamhorose",
+      "previewNoDistribute": false,
+      "provider": [
+        "Europeana Sounds"
+      ],
+      "rights": [
+        "http://rightsstatements.org/vocab/InC/1.0/"
+      ],
+      "score": 23.899956,
+      "timestamp": 1752010737981,
+      "timestamp_created": "2020-07-30T06:26:07.473Z",
+      "timestamp_created_epoch": 1596090367473,
+      "timestamp_update": "2021-09-02T10:34:42.584Z",
+      "timestamp_update_epoch": 1630578882584,
+      "title": [
+        "King Sewercrab",
+        "Track from Yolk Live at Wetlands Preserve on 1997-10-11"
+      ],
+      "type": "SOUND",
+      "ugc": [
+        false
+      ]
+    },
+    {
+      "completeness": 0,
+      "country": [
+        "Netherlands"
+      ],
+      "dataProvider": [
+        "Internet Archive"
+      ],
+      "dcDescription": [
+        "Set I  01. intro 02. Into the Unknowns 03. Nobody Moves 04. Next Step for the Monkey 05. Reconstructed Wilma 06. Mr. Kite 07. Green 08. jam* 09. So This is Heaven 10. Passing By 11. Everyday# 12. Missing Something  Set II  01. intro 02. Infinity@ 03. Oblivion 04. Anyone Else > 05. Cataract 06. Seven 07. Pavement > 08. King Sewercrab 09. MTV Get Off the Air% 10. Halloween 11. Dregs  * = w/Dean Bowman # = w/Mike Dickenson @ = w/Mash intro % = w/Brian Lederman, George Wheeler and Mike Dickenson"
+      ],
+      "dcDescriptionLangAware": {
+        "en": [
+          "Set I  01. intro 02. Into the Unknowns 03. Nobody Moves 04. Next Step for the Monkey 05. Reconstructed Wilma 06. Mr. Kite 07. Green 08. jam* 09. So This is Heaven 10. Passing By 11. Everyday# 12. Missing Something  Set II  01. intro 02. Infinity@ 03. Oblivion 04. Anyone Else > 05. Cataract 06. Seven 07. Pavement > 08. King Sewercrab 09. MTV Get Off the Air% 10. Halloween 11. Dregs  * = w/Dean Bowman # = w/Mike Dickenson @ = w/Mash intro % = w/Brian Lederman, George Wheeler and Mike Dickenson"
+        ]
+      },
+      "dcTitleLangAware": {
+        "en": [
+          "Pavement >"
+        ]
+      },
+      "edmConcept": [
+        "http://data.europeana.eu/concept/soundgenres/Music/Popular_music"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Populären musik"
+        },
+        {
+          "def": "Popular music"
+        },
+        {
+          "def": "Musica popolare"
+        },
+        {
+          "def": "Musique populaire"
+        },
+        {
+          "def": "Muzyka popularna"
+        },
+        {
+          "def": "Música popular"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Populären musik"
+        ],
+        "en": [
+          "Popular music"
+        ],
+        "it": [
+          "Musica popolare"
+        ],
+        "fr": [
+          "Musique populaire"
+        ],
+        "pl": [
+          "Muzyka popularna"
+        ],
+        "es": [
+          "Música popular"
+        ]
+      },
+      "edmDatasetName": [
+        "2059210_Ag_EU_eSOUNDS_1014_NISV"
+      ],
+      "edmIsShownAt": [
+        "https://archive.org/details/yolk1997-10-11.mtx.flac16"
+      ],
+      "edmIsShownBy": [
+        "http://archive.org/download/yolk1997-10-11.mtx.flac16/yolk1997-10-11s2t07.mp3"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Farchive.org%2Fdownload%2Fyolk1997-10-11.mtx.flac16%2Fyolk1997-10-11s2t07.mp3&type=SOUND"
+      ],
+      "edmTimespanLabel": [
+        {
+          "def": "2010-12-13"
+        }
+      ],
+      "edmTimespanLabelLangAware": {
+        "zxx": [
+          "2010-12-13"
+        ]
+      },
+      "europeanaCollectionName": [
+        "2059210_Ag_EU_eSOUNDS_1014_NISV"
+      ],
+      "europeanaCompleteness": 0,
+      "guid": "https://www.europeana.eu/item/2059210/data_sounds_http___archive_org_download_yolk1997_10_11_mtx_flac16_yolk1997_10_11s2t07_mp3?utm_source=api&utm_medium=api&utm_campaign=ctinamhorose",
+      "id": "/2059210/data_sounds_http___archive_org_download_yolk1997_10_11_mtx_flac16_yolk1997_10_11s2t07_mp3",
+      "index": 0,
+      "language": [
+        "mul"
+      ],
+      "link": "https://api.europeana.eu/record/2059210/data_sounds_http___archive_org_download_yolk1997_10_11_mtx_flac16_yolk1997_10_11s2t07_mp3.json?wskey=ctinamhorose",
+      "previewNoDistribute": false,
+      "provider": [
+        "Europeana Sounds"
+      ],
+      "rights": [
+        "http://rightsstatements.org/vocab/InC/1.0/"
+      ],
+      "score": 23.903767,
+      "timestamp": 1752010737934,
+      "timestamp_created": "2020-07-30T06:26:07.473Z",
+      "timestamp_created_epoch": 1596090367473,
+      "timestamp_update": "2021-09-02T10:34:42.584Z",
+      "timestamp_update_epoch": 1630578882584,
+      "title": [
+        "Pavement >",
+        "Track from Yolk Live at Wetlands Preserve on 1997-10-11"
+      ],
+      "type": "SOUND",
+      "ugc": [
+        false
+      ]
+    },
+    {
+      "completeness": 0,
+      "country": [
+        "Netherlands"
+      ],
+      "dataProvider": [
+        "Internet Archive"
+      ],
+      "dcDescription": [
+        "Set I  01. intro 02. Into the Unknowns 03. Nobody Moves 04. Next Step for the Monkey 05. Reconstructed Wilma 06. Mr. Kite 07. Green 08. jam* 09. So This is Heaven 10. Passing By 11. Everyday# 12. Missing Something  Set II  01. intro 02. Infinity@ 03. Oblivion 04. Anyone Else > 05. Cataract 06. Seven 07. Pavement > 08. King Sewercrab 09. MTV Get Off the Air% 10. Halloween 11. Dregs  * = w/Dean Bowman # = w/Mike Dickenson @ = w/Mash intro % = w/Brian Lederman, George Wheeler and Mike Dickenson"
+      ],
+      "dcDescriptionLangAware": {
+        "en": [
+          "Set I  01. intro 02. Into the Unknowns 03. Nobody Moves 04. Next Step for the Monkey 05. Reconstructed Wilma 06. Mr. Kite 07. Green 08. jam* 09. So This is Heaven 10. Passing By 11. Everyday# 12. Missing Something  Set II  01. intro 02. Infinity@ 03. Oblivion 04. Anyone Else > 05. Cataract 06. Seven 07. Pavement > 08. King Sewercrab 09. MTV Get Off the Air% 10. Halloween 11. Dregs  * = w/Dean Bowman # = w/Mike Dickenson @ = w/Mash intro % = w/Brian Lederman, George Wheeler and Mike Dickenson"
+        ]
+      },
+      "dcTitleLangAware": {
+        "en": [
+          "Seven"
+        ]
+      },
+      "edmConcept": [
+        "http://data.europeana.eu/concept/soundgenres/Music/Popular_music"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Populären musik"
+        },
+        {
+          "def": "Popular music"
+        },
+        {
+          "def": "Musica popolare"
+        },
+        {
+          "def": "Musique populaire"
+        },
+        {
+          "def": "Muzyka popularna"
+        },
+        {
+          "def": "Música popular"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Populären musik"
+        ],
+        "en": [
+          "Popular music"
+        ],
+        "it": [
+          "Musica popolare"
+        ],
+        "fr": [
+          "Musique populaire"
+        ],
+        "pl": [
+          "Muzyka popularna"
+        ],
+        "es": [
+          "Música popular"
+        ]
+      },
+      "edmDatasetName": [
+        "2059210_Ag_EU_eSOUNDS_1014_NISV"
+      ],
+      "edmIsShownAt": [
+        "https://archive.org/details/yolk1997-10-11.mtx.flac16"
+      ],
+      "edmIsShownBy": [
+        "http://archive.org/download/yolk1997-10-11.mtx.flac16/yolk1997-10-11s2t06.mp3"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Farchive.org%2Fdownload%2Fyolk1997-10-11.mtx.flac16%2Fyolk1997-10-11s2t06.mp3&type=SOUND"
+      ],
+      "edmTimespanLabel": [
+        {
+          "def": "2010-12-13"
+        }
+      ],
+      "edmTimespanLabelLangAware": {
+        "zxx": [
+          "2010-12-13"
+        ]
+      },
+      "europeanaCollectionName": [
+        "2059210_Ag_EU_eSOUNDS_1014_NISV"
+      ],
+      "europeanaCompleteness": 0,
+      "guid": "https://www.europeana.eu/item/2059210/data_sounds_http___archive_org_download_yolk1997_10_11_mtx_flac16_yolk1997_10_11s2t06_mp3?utm_source=api&utm_medium=api&utm_campaign=ctinamhorose",
+      "id": "/2059210/data_sounds_http___archive_org_download_yolk1997_10_11_mtx_flac16_yolk1997_10_11s2t06_mp3",
+      "index": 0,
+      "language": [
+        "mul"
+      ],
+      "link": "https://api.europeana.eu/record/2059210/data_sounds_http___archive_org_download_yolk1997_10_11_mtx_flac16_yolk1997_10_11s2t06_mp3.json?wskey=ctinamhorose",
+      "previewNoDistribute": false,
+      "provider": [
+        "Europeana Sounds"
+      ],
+      "rights": [
+        "http://rightsstatements.org/vocab/InC/1.0/"
+      ],
+      "score": 23.988771,
+      "timestamp": 1752010737831,
+      "timestamp_created": "2020-07-30T06:26:07.473Z",
+      "timestamp_created_epoch": 1596090367473,
+      "timestamp_update": "2021-09-02T10:34:42.584Z",
+      "timestamp_update_epoch": 1630578882584,
+      "title": [
+        "Seven",
+        "Track from Yolk Live at Wetlands Preserve on 1997-10-11"
+      ],
+      "type": "SOUND",
+      "ugc": [
+        false
+      ]
+    },
+    {
+      "completeness": 0,
+      "country": [
+        "Netherlands"
+      ],
+      "dataProvider": [
+        "Internet Archive"
+      ],
+      "dcDescription": [
+        "Set I  01. intro 02. Into the Unknowns 03. Nobody Moves 04. Next Step for the Monkey 05. Reconstructed Wilma 06. Mr. Kite 07. Green 08. jam* 09. So This is Heaven 10. Passing By 11. Everyday# 12. Missing Something  Set II  01. intro 02. Infinity@ 03. Oblivion 04. Anyone Else > 05. Cataract 06. Seven 07. Pavement > 08. King Sewercrab 09. MTV Get Off the Air% 10. Halloween 11. Dregs  * = w/Dean Bowman # = w/Mike Dickenson @ = w/Mash intro % = w/Brian Lederman, George Wheeler and Mike Dickenson"
+      ],
+      "dcDescriptionLangAware": {
+        "en": [
+          "Set I  01. intro 02. Into the Unknowns 03. Nobody Moves 04. Next Step for the Monkey 05. Reconstructed Wilma 06. Mr. Kite 07. Green 08. jam* 09. So This is Heaven 10. Passing By 11. Everyday# 12. Missing Something  Set II  01. intro 02. Infinity@ 03. Oblivion 04. Anyone Else > 05. Cataract 06. Seven 07. Pavement > 08. King Sewercrab 09. MTV Get Off the Air% 10. Halloween 11. Dregs  * = w/Dean Bowman # = w/Mike Dickenson @ = w/Mash intro % = w/Brian Lederman, George Wheeler and Mike Dickenson"
+        ]
+      },
+      "dcTitleLangAware": {
+        "en": [
+          "Cataract"
+        ]
+      },
+      "edmConcept": [
+        "http://data.europeana.eu/concept/soundgenres/Music/Popular_music"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Populären musik"
+        },
+        {
+          "def": "Popular music"
+        },
+        {
+          "def": "Musica popolare"
+        },
+        {
+          "def": "Musique populaire"
+        },
+        {
+          "def": "Muzyka popularna"
+        },
+        {
+          "def": "Música popular"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Populären musik"
+        ],
+        "en": [
+          "Popular music"
+        ],
+        "it": [
+          "Musica popolare"
+        ],
+        "fr": [
+          "Musique populaire"
+        ],
+        "pl": [
+          "Muzyka popularna"
+        ],
+        "es": [
+          "Música popular"
+        ]
+      },
+      "edmDatasetName": [
+        "2059210_Ag_EU_eSOUNDS_1014_NISV"
+      ],
+      "edmIsShownAt": [
+        "https://archive.org/details/yolk1997-10-11.mtx.flac16"
+      ],
+      "edmIsShownBy": [
+        "http://archive.org/download/yolk1997-10-11.mtx.flac16/yolk1997-10-11s2t05.mp3"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Farchive.org%2Fdownload%2Fyolk1997-10-11.mtx.flac16%2Fyolk1997-10-11s2t05.mp3&type=SOUND"
+      ],
+      "edmTimespanLabel": [
+        {
+          "def": "2010-12-13"
+        }
+      ],
+      "edmTimespanLabelLangAware": {
+        "zxx": [
+          "2010-12-13"
+        ]
+      },
+      "europeanaCollectionName": [
+        "2059210_Ag_EU_eSOUNDS_1014_NISV"
+      ],
+      "europeanaCompleteness": 0,
+      "guid": "https://www.europeana.eu/item/2059210/data_sounds_http___archive_org_download_yolk1997_10_11_mtx_flac16_yolk1997_10_11s2t05_mp3?utm_source=api&utm_medium=api&utm_campaign=ctinamhorose",
+      "id": "/2059210/data_sounds_http___archive_org_download_yolk1997_10_11_mtx_flac16_yolk1997_10_11s2t05_mp3",
+      "index": 0,
+      "language": [
+        "mul"
+      ],
+      "link": "https://api.europeana.eu/record/2059210/data_sounds_http___archive_org_download_yolk1997_10_11_mtx_flac16_yolk1997_10_11s2t05_mp3.json?wskey=ctinamhorose",
+      "previewNoDistribute": false,
+      "provider": [
+        "Europeana Sounds"
+      ],
+      "rights": [
+        "http://rightsstatements.org/vocab/InC/1.0/"
+      ],
+      "score": 23.988771,
+      "timestamp": 1752010737766,
+      "timestamp_created": "2020-07-30T06:26:07.473Z",
+      "timestamp_created_epoch": 1596090367473,
+      "timestamp_update": "2021-09-02T10:34:42.584Z",
+      "timestamp_update_epoch": 1630578882584,
+      "title": [
+        "Cataract",
+        "Track from Yolk Live at Wetlands Preserve on 1997-10-11"
+      ],
+      "type": "SOUND",
+      "ugc": [
+        false
+      ]
+    },
+    {
+      "completeness": 0,
+      "country": [
+        "Netherlands"
+      ],
+      "dataProvider": [
+        "Internet Archive"
+      ],
+      "dcDescription": [
+        "Set I  01. intro 02. Into the Unknowns 03. Nobody Moves 04. Next Step for the Monkey 05. Reconstructed Wilma 06. Mr. Kite 07. Green 08. jam* 09. So This is Heaven 10. Passing By 11. Everyday# 12. Missing Something  Set II  01. intro 02. Infinity@ 03. Oblivion 04. Anyone Else > 05. Cataract 06. Seven 07. Pavement > 08. King Sewercrab 09. MTV Get Off the Air% 10. Halloween 11. Dregs  * = w/Dean Bowman # = w/Mike Dickenson @ = w/Mash intro % = w/Brian Lederman, George Wheeler and Mike Dickenson"
+      ],
+      "dcDescriptionLangAware": {
+        "en": [
+          "Set I  01. intro 02. Into the Unknowns 03. Nobody Moves 04. Next Step for the Monkey 05. Reconstructed Wilma 06. Mr. Kite 07. Green 08. jam* 09. So This is Heaven 10. Passing By 11. Everyday# 12. Missing Something  Set II  01. intro 02. Infinity@ 03. Oblivion 04. Anyone Else > 05. Cataract 06. Seven 07. Pavement > 08. King Sewercrab 09. MTV Get Off the Air% 10. Halloween 11. Dregs  * = w/Dean Bowman # = w/Mike Dickenson @ = w/Mash intro % = w/Brian Lederman, George Wheeler and Mike Dickenson"
+        ]
+      },
+      "dcTitleLangAware": {
+        "en": [
+          "Anyone Else >"
+        ]
+      },
+      "edmConcept": [
+        "http://data.europeana.eu/concept/soundgenres/Music/Popular_music"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Populären musik"
+        },
+        {
+          "def": "Popular music"
+        },
+        {
+          "def": "Musica popolare"
+        },
+        {
+          "def": "Musique populaire"
+        },
+        {
+          "def": "Muzyka popularna"
+        },
+        {
+          "def": "Música popular"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Populären musik"
+        ],
+        "en": [
+          "Popular music"
+        ],
+        "it": [
+          "Musica popolare"
+        ],
+        "fr": [
+          "Musique populaire"
+        ],
+        "pl": [
+          "Muzyka popularna"
+        ],
+        "es": [
+          "Música popular"
+        ]
+      },
+      "edmDatasetName": [
+        "2059210_Ag_EU_eSOUNDS_1014_NISV"
+      ],
+      "edmIsShownAt": [
+        "https://archive.org/details/yolk1997-10-11.mtx.flac16"
+      ],
+      "edmIsShownBy": [
+        "http://archive.org/download/yolk1997-10-11.mtx.flac16/yolk1997-10-11s2t04.mp3"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Farchive.org%2Fdownload%2Fyolk1997-10-11.mtx.flac16%2Fyolk1997-10-11s2t04.mp3&type=SOUND"
+      ],
+      "edmTimespanLabel": [
+        {
+          "def": "2010-12-13"
+        }
+      ],
+      "edmTimespanLabelLangAware": {
+        "zxx": [
+          "2010-12-13"
+        ]
+      },
+      "europeanaCollectionName": [
+        "2059210_Ag_EU_eSOUNDS_1014_NISV"
+      ],
+      "europeanaCompleteness": 0,
+      "guid": "https://www.europeana.eu/item/2059210/data_sounds_http___archive_org_download_yolk1997_10_11_mtx_flac16_yolk1997_10_11s2t04_mp3?utm_source=api&utm_medium=api&utm_campaign=ctinamhorose",
+      "id": "/2059210/data_sounds_http___archive_org_download_yolk1997_10_11_mtx_flac16_yolk1997_10_11s2t04_mp3",
+      "index": 0,
+      "language": [
+        "mul"
+      ],
+      "link": "https://api.europeana.eu/record/2059210/data_sounds_http___archive_org_download_yolk1997_10_11_mtx_flac16_yolk1997_10_11s2t04_mp3.json?wskey=ctinamhorose",
+      "previewNoDistribute": false,
+      "provider": [
+        "Europeana Sounds"
+      ],
+      "rights": [
+        "http://rightsstatements.org/vocab/InC/1.0/"
+      ],
+      "score": 23.899956,
+      "timestamp": 1752010737656,
+      "timestamp_created": "2020-07-30T06:26:07.473Z",
+      "timestamp_created_epoch": 1596090367473,
+      "timestamp_update": "2021-09-02T10:34:42.584Z",
+      "timestamp_update_epoch": 1630578882584,
+      "title": [
+        "Anyone Else >",
+        "Track from Yolk Live at Wetlands Preserve on 1997-10-11"
+      ],
+      "type": "SOUND",
+      "ugc": [
+        false
+      ]
+    },
+    {
+      "completeness": 0,
+      "country": [
+        "Netherlands"
+      ],
+      "dataProvider": [
+        "Internet Archive"
+      ],
+      "dcDescription": [
+        "Set I  01. intro 02. Into the Unknowns 03. Nobody Moves 04. Next Step for the Monkey 05. Reconstructed Wilma 06. Mr. Kite 07. Green 08. jam* 09. So This is Heaven 10. Passing By 11. Everyday# 12. Missing Something  Set II  01. intro 02. Infinity@ 03. Oblivion 04. Anyone Else > 05. Cataract 06. Seven 07. Pavement > 08. King Sewercrab 09. MTV Get Off the Air% 10. Halloween 11. Dregs  * = w/Dean Bowman # = w/Mike Dickenson @ = w/Mash intro % = w/Brian Lederman, George Wheeler and Mike Dickenson"
+      ],
+      "dcDescriptionLangAware": {
+        "en": [
+          "Set I  01. intro 02. Into the Unknowns 03. Nobody Moves 04. Next Step for the Monkey 05. Reconstructed Wilma 06. Mr. Kite 07. Green 08. jam* 09. So This is Heaven 10. Passing By 11. Everyday# 12. Missing Something  Set II  01. intro 02. Infinity@ 03. Oblivion 04. Anyone Else > 05. Cataract 06. Seven 07. Pavement > 08. King Sewercrab 09. MTV Get Off the Air% 10. Halloween 11. Dregs  * = w/Dean Bowman # = w/Mike Dickenson @ = w/Mash intro % = w/Brian Lederman, George Wheeler and Mike Dickenson"
+        ]
+      },
+      "dcTitleLangAware": {
+        "en": [
+          "Oblivion"
+        ]
+      },
+      "edmConcept": [
+        "http://data.europeana.eu/concept/soundgenres/Music/Popular_music"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Populären musik"
+        },
+        {
+          "def": "Popular music"
+        },
+        {
+          "def": "Musica popolare"
+        },
+        {
+          "def": "Musique populaire"
+        },
+        {
+          "def": "Muzyka popularna"
+        },
+        {
+          "def": "Música popular"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Populären musik"
+        ],
+        "en": [
+          "Popular music"
+        ],
+        "it": [
+          "Musica popolare"
+        ],
+        "fr": [
+          "Musique populaire"
+        ],
+        "pl": [
+          "Muzyka popularna"
+        ],
+        "es": [
+          "Música popular"
+        ]
+      },
+      "edmDatasetName": [
+        "2059210_Ag_EU_eSOUNDS_1014_NISV"
+      ],
+      "edmIsShownAt": [
+        "https://archive.org/details/yolk1997-10-11.mtx.flac16"
+      ],
+      "edmIsShownBy": [
+        "http://archive.org/download/yolk1997-10-11.mtx.flac16/yolk1997-10-11s2t03.mp3"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Farchive.org%2Fdownload%2Fyolk1997-10-11.mtx.flac16%2Fyolk1997-10-11s2t03.mp3&type=SOUND"
+      ],
+      "edmTimespanLabel": [
+        {
+          "def": "2010-12-13"
+        }
+      ],
+      "edmTimespanLabelLangAware": {
+        "zxx": [
+          "2010-12-13"
+        ]
+      },
+      "europeanaCollectionName": [
+        "2059210_Ag_EU_eSOUNDS_1014_NISV"
+      ],
+      "europeanaCompleteness": 0,
+      "guid": "https://www.europeana.eu/item/2059210/data_sounds_http___archive_org_download_yolk1997_10_11_mtx_flac16_yolk1997_10_11s2t03_mp3?utm_source=api&utm_medium=api&utm_campaign=ctinamhorose",
+      "id": "/2059210/data_sounds_http___archive_org_download_yolk1997_10_11_mtx_flac16_yolk1997_10_11s2t03_mp3",
+      "index": 0,
+      "language": [
+        "mul"
+      ],
+      "link": "https://api.europeana.eu/record/2059210/data_sounds_http___archive_org_download_yolk1997_10_11_mtx_flac16_yolk1997_10_11s2t03_mp3.json?wskey=ctinamhorose",
+      "previewNoDistribute": false,
+      "provider": [
+        "Europeana Sounds"
+      ],
+      "rights": [
+        "http://rightsstatements.org/vocab/InC/1.0/"
+      ],
+      "score": 23.903767,
+      "timestamp": 1752010737582,
+      "timestamp_created": "2020-07-30T06:26:07.473Z",
+      "timestamp_created_epoch": 1596090367473,
+      "timestamp_update": "2021-09-02T10:34:42.584Z",
+      "timestamp_update_epoch": 1630578882584,
+      "title": [
+        "Oblivion",
+        "Track from Yolk Live at Wetlands Preserve on 1997-10-11"
+      ],
+      "type": "SOUND",
+      "ugc": [
+        false
+      ]
+    }
+  ],
+  "url": "https://api.europeana.eu/record/v2/search.json?wskey=ctinamhorose&query=Mike+Wheeler&sort=europeana_id&rows=12&cursor=%2A",
+  "params": {
+    "wskey": "ctinamhorose",
+    "query": "Mike Wheeler",
+    "qf": null,
+    "reusability": null,
+    "media": null,
+    "thumbnail": null,
+    "landingpage": null,
+    "colourpalette": null,
+    "theme": null,
+    "sort": "europeana_id",
+    "profile": null,
+    "rows": 12,
+    "cursor": "*",
+    "callback": null,
+    "facet": null
+  }
+}
