@@ -36,7 +36,6 @@ print("\nEuropeana Search")
 # Load Europeana API key (stored locally using apikey library)
 load_dotenv()  # reads the .env file automatically
 europeana_api_key = os.getenv("EUROPEANA_API_KEY")
-os.environ['EUROPEANA_API_KEY'] = europeana_api_key
 
 # Search Europeana for the chosen character name
 result = apis.search(query=chosen_name)
